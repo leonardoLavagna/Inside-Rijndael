@@ -4,5 +4,5 @@ The goal of this project is to gain a better understanding of the arithmetic in 
 
 ### What's in here?
 - The Jupyter Notebook of the project with all the code and comments `Rijndael_S_Box.ipynb`
-- The script `s_box.py` with all the assabled code to generate an S-Box (the relevant code is also present, but scattered, in the notebook)
+- The script `s_box.py` with all the assambled code to generate an S-Box (the relevant code is also present, but scattered, in the notebook)
 
